@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, I'm Abhishek Singh 👋
 
-<!--
-**abhisingh91/abhisingh91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with a focus on problem-solving and coming up with effective data-driven solutions and visualizations. I have recently studied as a CS major, and I have a strong understanding of relevant topics in Probability and Statistics.
 
-Here are some ideas to get you started:
+### My Toolset
+- Programming Language: Python
+- Database Management: SQL
+- Data Wrangling: Pandas, NumPy
+- Data Visualization: Matplotlib, Tableau
+- Statistical Analysis: Hypothesis Testing, Regression Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I'm always open to collaboration, learning opportunities, or just discussing the world of data with like-minded people.
+
+Find me on LinkedIn ➡ [@imabhi16](https://www.linkedin.com/in/imabhi16/) <br><br>
+Reach out to me on Twitter/X ➡ [@imabhisingh91](https://twitter.com/imabhisingh91)
