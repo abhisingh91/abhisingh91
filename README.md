@@ -4,7 +4,7 @@ I'm a Data Analyst with a focus on problem-solving and coming up with effective 
 
 ### My Toolset
 - Programming Language: Python
-- Database Management: SQL
+- Database Management: MySQL
 - Data Wrangling: Pandas, NumPy
 - Data Visualization: Matplotlib, Tableau
 - Statistical Analysis: Hypothesis Testing, Regression Analysis
