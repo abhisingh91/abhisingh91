@@ -1,6 +1,6 @@
 ### Hey, I'm Abhishek Singh 👋
 
-I'm a Data Analyst with a focus on getting meaningful insights and coming up with effective data-driven solutions and visualizations. I have recently studied as a CS major, and I have a strong understanding of relevant topics in Probability and Statistics.
+I'm a Data Analyst with a focus on getting meaningful insights and coming up with effective data-driven solutions and visualizations. I am a CS major, and I have a strong understanding of relevant topics in Probability and Statistics.
 
 ### Tech Stack
 - Programming Language: Python
