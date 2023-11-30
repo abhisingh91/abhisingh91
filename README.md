@@ -7,7 +7,8 @@ I'm a Data Analyst with a focus on getting meaningful insights and coming up wit
 - Database Management: MySQL
 - Data Wrangling: Pandas, NumPy
 - Data Visualization: Matplotlib, Tableau
-- Statistical Analysis: Hypothesis Testing, Regression Analysis
+- Statistical Analysis: Hypothesis Testing
+- Microsoft Excel
 
 🤝 I'm always open to collaboration, learning opportunities, or just discussing the world of data with like-minded people.
 
