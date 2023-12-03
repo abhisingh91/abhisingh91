@@ -4,11 +4,11 @@ I'm a Data Analyst with a focus on getting meaningful insights and coming up wit
 
 ### Tech Stack
 - Programming Language: Python
-- Database Management: MySQL
+- Database Management: SQL (MySQL, PostgreSQL)
 - Data Wrangling: Pandas, NumPy
 - Data Visualization: Matplotlib, Tableau
-- Statistical Analysis: Hypothesis Testing
-- Microsoft Excel
+- Statistical Analysis: Hypothesis Testing (SciPy)
+- Microsoft Excel (Pivot Table, Power Query, Conditional Formatting)
 
 🤝 I'm always open to collaboration, learning opportunities, or just discussing the world of data with like-minded people.
 
